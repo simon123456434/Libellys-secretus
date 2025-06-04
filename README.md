@@ -25,7 +25,7 @@
 
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
-A list of things for cyber security or other handy things. I am not reposnsible if people decide to use this. 
+A list of things for cyber security or other handy things. I am not reposnsible if people decide to use this
 
 ## :restroom: &nbsp;For whom?
 
